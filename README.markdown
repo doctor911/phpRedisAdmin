@@ -1,6 +1,9 @@
 phpRedisAdmin
 =============
 
+Is is far past mignight, my eyes are tired of default white background, and that's why I forked PhpRedisAdmin and added some dark theme styles. 
+Please ignore this repo :) 
+
 phpRedisAdmin is a simple web interface to manage [Redis](http://redis.io/)
 databases. It is released under the
 [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/).
