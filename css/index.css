@@ -14,7 +14,7 @@ padding-left: 10px;
 }
 
 #sidebar a, #sidebar a:visited {
-color: #000;
+color: #dcdcdc;
 }
 
 #sidebar a {
@@ -98,17 +98,6 @@ background-image: url(../images/tree-folder-expanded.gif);
 
 #keys ul ul li.folder.collapsed {
 background-image: url(../images/tree-folder-collapsed.gif);
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-a,
-p {
-color: #dcdcdc;
 }
 
 #keys ul ul li.last { /* Hard-coded substitute for :last-child */
