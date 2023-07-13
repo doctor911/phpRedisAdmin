@@ -28,8 +28,8 @@ border-collapse: collapse;
 }
 
 td {
-background-color: #eee;
-border: 2px solid #fff;
+background-color: #333333;
+border: 2px solid #333333;
 }
 
 .alt td {

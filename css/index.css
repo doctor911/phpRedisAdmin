@@ -51,6 +51,14 @@ margin-top: .05em;
 cursor: pointer;
 }
 
+li {
+color: #dcdcdc;
+}
+
+li a {
+color: #dcdcdc;
+}
+
 #keys li.empty a {
 color: #888;
 }
@@ -64,6 +72,7 @@ display: none;
 }
 
 #keys .icon {
+color: #dcdcdc;
 padding: 1px 0 1px 20px;
 background: url(../images/folder-open.png) left center no-repeat;
 white-space: nowrap;
@@ -91,9 +100,19 @@ background-image: url(../images/tree-folder-expanded.gif);
 background-image: url(../images/tree-folder-collapsed.gif);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+color: #dcdcdc;
+}
+
 #keys ul ul li.last { /* Hard-coded substitute for :last-child */
 margin-bottom: .3em;
-background: #fff url(../images/tree-lastnode.gif) no-repeat;
+background: #4a4a4a url(../images/tree-lastnode.gif) no-repeat;
 }
 
 #keys ul ul li.last.folder {
@@ -117,12 +136,11 @@ position: fixed;
 top: 0;
 left: 300px;
 bottom: 0;
-width: 5px;
-background-color: #aaa;
+width: 8px;
+background-color: #1f1f1f;
 cursor: col-resize;
 padding: 0;
 margin: 0;
-border-left: 1px solid #000;
 }
 
 #resize-layover {
