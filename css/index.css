@@ -64,7 +64,8 @@ color: #888;
 }
 
 #keys li.current a {
-background-color: #eee;
+color: black;
+background-color: #d9d9d9;
 }
 
 #keys li.hidden {
